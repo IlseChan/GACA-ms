@@ -10,3 +10,6 @@
 [submodule "RVIAMI"]
 	path = RVIAMI
 	url = https://github.com/Nest-Microservices-GACA/RVIAMI.git
+[submodule "Usuarios-microservicio"]
+	path = Usuarios-microservicio
+	url = https://github.com/Nest-Microservices-GACA/Usuarios-microservicio.git
