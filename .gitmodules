@@ -16,3 +16,6 @@
 [submodule "RVIAAC"]
 	path = RVIAAC
 	url = https://github.com/Nest-Microservices-GACA/RVIAAC.git
+[submodule "RVIASA"]
+	path = RVIASA
+	url = https://github.com/Nest-Microservices-GACA/RVIASA.git
