@@ -13,3 +13,6 @@
 [submodule "Usuarios-microservicio"]
 	path = Usuarios-microservicio
 	url = https://github.com/Nest-Microservices-GACA/Usuarios-microservicio.git
+[submodule "RVIAAC"]
+	path = RVIAAC
+	url = https://github.com/Nest-Microservices-GACA/RVIAAC.git
