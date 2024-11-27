@@ -4,3 +4,6 @@
 [submodule "auth-ms"]
 	path = auth-ms
 	url = https://github.com/Nest-Microservices-GACA/auth-ms.git
+[submodule "lenguajes-microservicios"]
+	path = lenguajes-microservicios
+	url = https://github.com/Nest-Microservices-GACA/lenguajes-microservicios.git
