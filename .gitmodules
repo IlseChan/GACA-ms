@@ -7,3 +7,6 @@
 [submodule "lenguajes-microservicios"]
 	path = lenguajes-microservicios
 	url = https://github.com/Nest-Microservices-GACA/lenguajes-microservicios.git
+[submodule "RVIAMI"]
+	path = RVIAMI
+	url = https://github.com/Nest-Microservices-GACA/RVIAMI.git
