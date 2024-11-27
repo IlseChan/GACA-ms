@@ -19,3 +19,6 @@
 [submodule "RVIASA"]
 	path = RVIASA
 	url = https://github.com/Nest-Microservices-GACA/RVIASA.git
+[submodule "aplicaciones-ms"]
+	path = aplicaciones-ms
+	url = https://github.com/Nest-Microservices-GACA/aplicaciones-ms.git
