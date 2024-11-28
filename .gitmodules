@@ -28,3 +28,6 @@
 [submodule "RVIACP"]
 	path = RVIACP
 	url = https://github.com/Nest-Microservices-GACA/RVIACP.git
+[submodule "RVIAPRODOC"]
+	path = RVIAPRODOC
+	url = https://github.com/Nest-Microservices-GACA/RVIAPRODOC.git
