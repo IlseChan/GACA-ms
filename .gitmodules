@@ -34,3 +34,6 @@
 [submodule "RVIACAL"]
 	path = RVIACAL
 	url = https://github.com/Nest-Microservices-GACA/RVIACAL.git
+[submodule "RVIADOC"]
+	path = RVIADOC
+	url = https://github.com/Nest-Microservices-GACA/RVIADOC.git
