@@ -22,3 +22,6 @@
 [submodule "aplicaciones-ms"]
 	path = aplicaciones-ms
 	url = https://github.com/Nest-Microservices-GACA/aplicaciones-ms.git
+[submodule "RVIACO"]
+	path = RVIACO
+	url = https://github.com/Nest-Microservices-GACA/RVIACO.git
